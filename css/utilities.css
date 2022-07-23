@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #047aed;
-    --secondary-color: #1c3fa8;
+    --primary-color: lightblue;
+    --secondary-color: darkblue;
     --dark-color: #002240;
     --light-color: #f4f4f4;
     --success-color: #5cb85c;
@@ -57,7 +57,7 @@
 
 .bg-dark, 
 .btn-dark {
-    background-color: var(--dark-color);
+    background-color: var(--secondary-color);
     color: white;
 }
 
